@@ -45,4 +45,4 @@ This project focuses on building a complete **Power BI** workflow, from data acq
 
 
 ### 💻 Power BI File
-📁 [Download PBIX File](assets/Final-task-2-file.pbix)
+📁 [Download PBIX File][(assets/Final-task-2-file.pbix)](https://github.com/esguerraervin/Final-task-2/blob/13ffae9c348a2b984f97d51df3dfafe609ad4a22/Final%20task%202%20file.pbix)
