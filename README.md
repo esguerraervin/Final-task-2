@@ -37,14 +37,12 @@ This project focuses on building a complete **Power BI** workflow, from data acq
 
 ## 📁 04. Output Files
 
-### 📘 Task Instruction File
-📄 [View Task Instruction File](assets/Finals-Task-2-Navigating-Power-BI.docx)
+### 📊 Dashboard
+![Dashboard][([assets/img/DASHBOARD.PNG])](https://github.com/esguerraervin/Final-task-2/blob/ada2ed24dd8db24279730d5a52e2b9b52df9a1e8/DASHBOARD.PNG)
 
 ### 🗂️ Data Model
-![Data Model](assets/img/DATA%20MODEL.PNG)
+![Data Model][([assets/img/DATA%20MODEL.PNG])](https://github.com/esguerraervin/Final-task-2/blob/ada2ed24dd8db24279730d5a52e2b9b52df9a1e8/DATA%20MODEL.PNG)
 
-### 📊 Dashboard
-![Dashboard](assets/img/DASHBOARD.PNG)
 
 ### 💻 Power BI File
 📁 [Download PBIX File](assets/Final-task-2-file.pbix)
